@@ -1,4 +1,4 @@
-# objectdetection  with open CV
+# object detection  with open CV
   Face,eye detection ,pedestrian detection, car detection using Har cascade classifier
  Face detection involves identifying and locating human faces within an image or video stream. OpenCV provides pre-trained classifiers like Haar Cascades and the more modern 
  DNN (Deep Neural Network) approach for this task.
